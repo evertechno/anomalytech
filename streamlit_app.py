@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://mas-lrd6.onrender.com"  # your deployed Flask service
+API_URL = "https://mas-lrd6.onrender.com/sync"  # your deployed Flask service
 
 st.title("MAS Circulars Sync Trigger")
 
